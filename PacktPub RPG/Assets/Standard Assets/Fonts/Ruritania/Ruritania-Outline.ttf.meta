@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 41878b3ebbd2dfa46bc825305610553f
+timeCreated: 1495564691
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ruritania-Outline
+  fontNames:
+  - Ruritania-Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
